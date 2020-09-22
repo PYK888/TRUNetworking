@@ -1,0 +1,6 @@
+framework module Pods_TRUNetworking_Tests {
+  umbrella header "Pods-TRUNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
